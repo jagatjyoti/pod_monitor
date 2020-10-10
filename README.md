@@ -4,7 +4,7 @@ Pod monitor is a Python utility for getting event histogram of all the unhealthy
 
 ## Description
 
-The utility is capable of providing data about unhealthy pods in your cluster. By default, it watches the pods for 1 hour (can be adjusted) before mailing the events in a nice HTML format. It also tells you the state of other pods in the same namespace where it has found an unhealthy pod. This is based on the [ Python Kubernetes client ] (https://github.com/kubernetes-client/python) which does API calls to the cluster and above link carries instructions about downloading it.  
+The utility is capable of providing data about unhealthy pods in your cluster. By default, it watches the pods for 1 hour (can be adjusted) before mailing the events in a nice HTML format. It also tells you the state of other pods in the same namespace where it has found an unhealthy pod. This is based on the [ Python Kubernetes client ](https://github.com/kubernetes-client/python) which does API calls to the cluster and above link carries instructions about downloading it.  
 
 ## Running it
 
