@@ -1,7 +1,6 @@
 # pod_monitor
 
 Pod monitor is a Python utility for getting event histogram of all the unhealthy pods over a certain period of time inside your Kubernetes cluster.
-Movie-Maniac is a program written in Python to search, suggest and download movies from [YTS](https://yts.ag/) (my personal favourite).
 
 ## Description
 
